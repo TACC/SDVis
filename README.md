@@ -25,5 +25,6 @@ The SDVis suite member projects include:
 	<li>pvOSPRay (tacc.github.io/pvOSPRay)</li>
 	<li>visitOSPRay (tacc.github.io/visitOSPRay)</li>
 	</ul>
+<li>SVBench (tacc.github.io/vis-workloads)</li>
 </ul>
 </p>
