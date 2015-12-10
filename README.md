@@ -13,7 +13,7 @@ architectures are converging on processor with wide vector units and many proces
 Fortunately, a number of recently-developed software packages capture the improved rendering performance of general-purpose processors and expose that performance through common visualization toolkits. Among these packages are those that render via rasterization, the algorithm used in hardware accelerators, as well as those that render via ray tracing, an algorithm that physically simulates the travel of light. To produce insightful visualizations most efficiently, the visualization scientist should understand the capabilities, performance characteristics and precision limits of each rendering method.
 </p>
 <p>
-The SDVis suite member projects are:
+The SDVis suite member projects include:
 <ul>
 <li>GLuRay (tacc.github.io/GLuRay)</li>
 <li>GraviT (tacc.github.io/GraviT)</li>
